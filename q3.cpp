@@ -1,0 +1,2 @@
+// Q.cpp will be Modified Q1.cpp but written in form of subfunctions (private or public, your choice) to find the intersection of multiple given lines. Additionally, create another subfunction, integrated within the main function, to evaluate whether the code has identified the correct intersection points. 
+// q4 Feed code Q3.cpp Line 1: 10^6x+2y = 5; Line 2: 3x+0.0001y = 7; Line3: 10^6x+2.00001y​=5.00001. Estimate Error
