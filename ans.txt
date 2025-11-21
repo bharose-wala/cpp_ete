@@ -1,2 +1,4 @@
 answer kyu nhi bhej rahe?????????????
 tum log ka push nhi hua hai kuch
+
+KAR DIYA HAI PUSH. MAIN PE JAAKE, git pull origin main KAR!!!
